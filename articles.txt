@@ -1,0 +1,10 @@
+---
+title: Articles 
+---
+<h3>Articles</h3>
+<menuitem><a href="index">About</a> | <a href="publications">Publications</a> | <a href="talks">Talks</a> | <a href="articles">Articles</a> | <a href="teaching">Teaching</a> | <a href="service">Service</a> | <a href="contact">Contact</a></menuitem>
+<h4>Other Publications</h4>
+<h6>Desikan, P., <b>Khare, R.</b>, Srivastava, J., Kaplan, R., Ghosh, J., Liu, L., Gopal, V., Predictive Modeling in Healthcare: Challenges and Opportunities, IEEE Life Sciences Newsletter November 2013. (<a target="_blank"  href="http://lifesciences.ieee.org/publications/newsletter/november-2013/439-predictive-modeling-in-healthcare-challenges-and-opportunities">link</a>)</h6>
+<h6>Desikan, P. and <b>Khare, R.</b>, Data Mining for Healthcare: DMH 2013 Workshop Summary, IEEE International Conference on Health Informatics (ICHI), September 9-11 2013. </h6>
+<h6><b>Khare, R.</b>, Careers in Bioinformatics, 2013 NIH Career Symposium. (<a target="_blank"  href="https://www.training.nih.gov/assets/Career_Symposium_2013_Newsletter_508.pdf">pdf</a>)</h6>                       
+<h6>Doctoral Profile Mention, Bridge, Bi-annual Publication, College of Computing and Informatics, Drexel University, Fall 2009. (<a target="_blank"  href="http://issuu.com/ischoolatdrexel/docs/bridge_fall_09">pdf</a>)</h6>  
